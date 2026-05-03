@@ -1,0 +1,20 @@
+[
+  {
+    "id": "85293756-9898-4bd2-928f-892488b71a4d",
+    "title": "google.com",
+    "url": "https://www.google.com/",
+    "description": "Saved through a Next.js route handler into a local JSON file."
+  },
+  {
+    "id": "next-docs",
+    "title": "Next.js Documentation",
+    "url": "https://nextjs.org/docs",
+    "description": "Learn the App Router, Server Components, routing, and data fetching."
+  },
+  {
+    "id": "react-docs",
+    "title": "React Documentation",
+    "url": "https://react.dev",
+    "description": "Refresh React concepts while seeing how they fit into Next.js."
+  }
+]
